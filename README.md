@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Traduzido-10%25-red.svg"> </b>
+<img src="https://img.shields.io/badge/Traduzido-50%25-yellow.svg"> </b>
 
 <p align="center">
   <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">
@@ -55,4 +55,5 @@ Se você acredita que os roadmaps podem ser incrementados, por favor abra um <i>
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) <br>
 Originalmente criado por [kamranahmedse](https://twitter.com/kamranahmedse) <br>
 Produção original disponível em [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) <br>
-Traduzido e adaptado por [hideraldoluis_](https://twitter.com/hideraldoluis_) e [LuysHNS](https://twitter.com/LuysHNS)
+Traduzido e adaptado por [hideraldoluis_](https://twitter.com/hideraldoluis_) 
+Revisado por [LuysHNS](https://twitter.com/LuysHNS)

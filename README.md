@@ -55,5 +55,5 @@ Se você acredita que os roadmaps podem ser incrementados, por favor abra um <i>
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) <br>
 Originalmente criado por [kamranahmedse](https://twitter.com/kamranahmedse) <br>
 Produção original disponível em [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) <br>
-Traduzido e adaptado por [hideraldoluis_](https://twitter.com/hideraldoluis_) 
+Traduzido e adaptado por [hideraldoluis_](https://twitter.com/hideraldoluis_) <br>
 Revisado por [LuysHNS](https://twitter.com/LuysHNS)

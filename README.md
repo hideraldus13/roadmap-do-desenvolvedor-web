@@ -9,11 +9,11 @@
   <p align="center">
     <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web#-introduction"><img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg"/></a>
     <a href="https://twitter.com/hideraldoluis_"><img src="https://img.shields.io/badge/Feedback-%40hideraldoluis__-blue.svg"/></a>
-  </p>
   <br>
-
   <span>Português</span> |
   <a href="https://github.com/kamranahmedse/developer-roadmap">English</a>
+  </p>
+  <br>
 </p>
 
 Abaixo você encontra, de forma visual, os caminhos que você pode tomar e tecnologias que pode adotar para se tornar um profissional de frontend, backend e devops. 

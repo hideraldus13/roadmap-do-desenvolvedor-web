@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Traduzido-75%25-green.svg"> </b>
+<img src="https://img.shields.io/badge/Traduzido-100%25-green.svg"/> | <img src="https://img.shields.io/badge/Traduzido-25%25-red.svg"/>
 
 <p align="center">
   <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">

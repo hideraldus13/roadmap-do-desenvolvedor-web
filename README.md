@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Traduzido-100%25-green.svg"/> | <img src="https://img.shields.io/badge/Traduzido-25%25-red.svg"/>
+<img src="https://img.shields.io/badge/Tradução-100%25-green.svg"/> <img src="https://img.shields.io/badge/Revisão-25%25-red.svg"/>
 
 <p align="center">
   <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">
@@ -8,7 +8,7 @@
   <p align="center">Roadmap para se tornar um Desenvolvedor Web em 2019</p>
   <p align="center">
     <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web#-introduction"><img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg"/></a>
-    <a href="https://twitter.com/hideraldoluis_"><img src="https://img.shields.io/badge/Feedback-%40hideraldoluis__-blue.svg"/></a>
+    <a href="https://twitter.com/hideraldoluis_"><img src="https://img.shields.io/badge/Feedback-%40hideraldoluis__-blue.svg"/></a></a>
   <br>
   <span>Português</span> |
   <a href="https://github.com/kamranahmedse/developer-roadmap">English</a>
@@ -19,7 +19,10 @@
 Abaixo você encontra, de forma visual, os caminhos que você pode tomar e tecnologias que pode adotar para se tornar um profissional de frontend, backend e devops. 
 
 <sub>Diga "Oi" <br> 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/https://twitter.com/hideraldoluis_.svg?style=social&label=Follow%20%40https://twitter.com/hideraldoluis_)](https://twitter.com/hideraldoluis_).</sub>
+  <a href="https://medium.com/dev-in-anything"><img src="https://img.shields.io/badge/Medium-Dev%20in%20Anything-lightgrey.svg"/></a><br>
+  <a href="https://twitter.com/hideraldoluis_"><img src="https://img.shields.io/badge/Twitter-%40hideraldoluis__-blue.svg"/></a><br>
+  <a href="https://www.linkedin.com/in/hideraldoluis/"><img src="https://img.shields.io/badge/LinkedIn-%40hideraldoluis_-blue.svg"/></a>
+</sub>
 
 ## Aviso
 > A proposta deste roadmap é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às duas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções. 

@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/Tradução-100%25-green.svg"/> <img src="https://img.shields.io/badge/Revisão-25%25-red.svg"/>
-
 <p align="center">
   <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">
     <img src="https://i.imgur.com/Uid1O3A.png" alt="Roadmap do Desenvolvedor Web" width="96" height="96">

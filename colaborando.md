@@ -28,8 +28,8 @@ E, muitas vezes, as suas opiniões não serão as mesmas do curador deste reposi
 ## Diretrizes
 
 - <p><strong>Adicionar tudo que existe no mercado não é o objetivo!</strong><br> 
-  Os roadmaps representam as tecnologias e padrões mais utilizados/valiosos atualmente e que valem muito a pena aprendê-los. Sabemos que existem diversas soluções não presentes na lista e algumas delas são bastante difundidas. Ok! Mas pense sempre na priorização e.g. o angular.js é amplamente utilizado e bastante performático, porém, não deve ser priorizado a frente de React, Angular ou Vue. Seja crítico ao filtrar o que é ou não essencial para o roadmap. E, caso você realmente acredite no valor de sua atualização, utilize seus argumentos no Issues.</p>
+  Os roadmaps representam as tecnologias e padrões mais utilizados/valiosos atualmente e que valem muito a pena aprendê-los. Sabemos que existem diversas soluções não presentes na lista e algumas delas são bastante difundidas. Ok! Mas pense sempre na priorização e.g. o angular.js é amplamente utilizado e bastante performático, porém, não deve ser priorizado a frente de React, Angular ou Vue. Seja crítico ao filtrar o que é ou não essencial para o roadmap. E, caso você realmente acredite no valor de sua atualização, utilize seus argumentos nas Issues.</p>
 - <p><strong>Um item por Pull Request</strong><br>
   Pode haver discussão sobre a adição ou não do seu item, por isso adicione apenas um item por Pull Request e facilite o gerenciamento do código.</p>
 - <p><strong>Capriche na mensagem do commit</strong></p>
-- <p><strong>Verifique se já existem Issues/Pull Requests antes de abrir novas issues</strong></p>
+- <p><strong>Verifique se já existem Issues/Pull Requests antes de abrir novas issues/pull requests</strong></p>

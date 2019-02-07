@@ -43,7 +43,7 @@ Abaixo você encontra, de forma visual, os caminhos que você pode tomar e tecno
 
 ## 🚦 Fique ligado
 
-Se você acredita que os roadmaps podem ser incrementados, por favor abra um <i>Pull Request</i> com a atualização e submeta as <i>Issues</i> para discussão. De qualquer forma, continuarei atualizando os readmaps sempre que necessário, então clique em watch/star e fique ligado neste repositório. 
+Se você acredita que os roadmaps podem ser incrementados, por favor abra um <i>Pull Request</i> com a atualização e submeta as <i>Issues</i> para discussão. De qualquer forma, continuarei atualizando os roadmaps sempre que necessário, então clique em watch/star e fique ligado neste repositório. 
 
 ## 🙌 Colabore
 

@@ -23,7 +23,7 @@ Abaixo você encontra, de forma visual, os caminhos que você pode tomar e tecno
 </sub>
 
 ## Aviso
-> A proposta deste roadmap é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às duas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções. 
+> A proposta deste roadmap é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções. 
 
 ## Introdução
 

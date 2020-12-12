@@ -1,3 +1,11 @@
+# ESTE ROADMAP ESTÁ EM ATUALIZAÇÃO 
+- [x] Intro
+- [x] Frontend
+- [ ] Backend
+- [ ] DevOps
+
+Para acessar a versão 2019 ![clique aqui](./archive/archive.md)
+
 <p align="center">
   <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">
     <img src="https://i.imgur.com/Uid1O3A.png" alt="Roadmap do Desenvolvedor Web" width="96" height="96">

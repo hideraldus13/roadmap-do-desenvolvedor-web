@@ -2,7 +2,7 @@
   <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">
     <img src="https://i.imgur.com/Uid1O3A.png" alt="Roadmap do Desenvolvedor Web 2021" width="96" height="96">
   </a>
-  <h1 align="center">Roadmap do Desenvolvedor Web</h1>
+  <h1 align="center">Roadmap do Desenvolvedor Web 2021</h1>
 </p>
 
 ## :dart: O roadmap para alavancar a sua carreira

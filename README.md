@@ -4,7 +4,7 @@
 - [ ] Backend
 - [ ] DevOps
 
-Para acessar a versão 2019 [clique aqui](./archive/archive.md)
+Para acessar a versão 2019 [clique aqui](./archive/2019/2019.md)
 
 <p align="center">
   <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">

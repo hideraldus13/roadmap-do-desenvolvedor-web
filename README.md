@@ -1,8 +1,10 @@
 # ESTE ROADMAP ESTÁ EM ATUALIZAÇÃO 
 - [x] Intro
 - [x] Frontend
-- [ ] Backend
-- [ ] DevOps
+- [x] Backend
+- [x] DevOps
+- [ ] Empacotando para presente :gift:
+
 
 Para acessar a versão 2019 [clique aqui](./archive/2019/2019.md)
 

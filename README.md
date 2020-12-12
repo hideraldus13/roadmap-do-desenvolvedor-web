@@ -1,13 +1,3 @@
-# ESTE ROADMAP ESTÁ EM ATUALIZAÇÃO 
-- [x] Intro
-- [x] Frontend
-- [x] Backend
-- [x] DevOps
-- [ ] Empacotando para presente :gift:
-
-
-Para acessar a versão 2019 [clique aqui](./archive/2019/2019.md)
-
 <p align="center">
   <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">
     <img src="https://i.imgur.com/Uid1O3A.png" alt="Roadmap do Desenvolvedor Web 2021" width="96" height="96">
@@ -69,4 +59,4 @@ Acesse as versões anteriores [aqui](./archive/archive.md).
 Originalmente criado por [kamranahmedse](https://twitter.com/kamranahmedse) <br>
 Produção original disponível em [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) <br>
 Traduzido e adaptado por [hideraldojunior](https://instagram.com/hideraldojunior) <br>
-Revisado por [LuysHNS](https://twitter.com/LuysHNS)
+Revisado por <i>VÁ EM ISSUES, ME AJUDE A REVISAR ESTE ROADMAP E SEU NOME APARECERÁ AQUI!</i> :wink:

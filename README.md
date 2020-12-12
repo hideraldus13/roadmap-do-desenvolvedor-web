@@ -4,17 +4,17 @@
 - [ ] Backend
 - [ ] DevOps
 
-Para acessar a versão 2019 ![clique aqui](./archive/archive.md)
+Para acessar a versão 2019 [clique aqui](./archive/archive.md)
 
 <p align="center">
   <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">
-    <img src="https://i.imgur.com/Uid1O3A.png" alt="Roadmap do Desenvolvedor Web" width="96" height="96">
+    <img src="https://i.imgur.com/Uid1O3A.png" alt="Roadmap do Desenvolvedor Web 2021" width="96" height="96">
   </a>
   <h2 align="center">Roadmap do Desenvolvedor Web</h2>
-  <p align="center">Roadmap para se tornar um Desenvolvedor Web em 2021</p>
+  <p> :dart: <b>O roadmap para alavancar a sua carreira</b></p>
 </p>
 
-Abaixo você encontra, de forma visual, os caminhos que você pode tomar e tecnologias que pode adotar para se tornar um profissional de frontend, backend e devops. 
+Abaixo você encontra, de forma visual, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, backend e/ou devops. 
 
 <sub>Diga "Oi" <br>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hideraldojunior/) 

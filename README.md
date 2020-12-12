@@ -57,6 +57,10 @@ Se você acredita que os roadmaps podem ser incrementados, por favor abra um <i>
 - Compartilhe o repositório com a sua comunidade
 - Mande feedbacks no [LinkedIn](https://linkedin.com/in/hideraldoluis)
 
+## :file_folder: Versões anteriores
+
+Acesse as versões anteriores [aqui](./archive/archive.md).
+
 ## :pushpin: Licença
 
 [![Licença: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) <br>

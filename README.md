@@ -58,4 +58,3 @@ Acesse as versões anteriores [aqui](./archive/archive.md).
 [![Licença: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) <br>
 Produção original disponível em [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) <br>
 Traduzido e adaptado por [hideraldojunior](https://instagram.com/hideraldojunior) <br>
-Revisado por <b><i>VÁ EM ISSUES, ME AJUDE A REVISAR ESTE ROADMAP E SEU NOME APARECERÁ AQUI!</i></b> :wink:
